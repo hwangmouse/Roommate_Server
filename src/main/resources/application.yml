@@ -1,5 +1,0 @@
-jwt:
-  secret: your-base64-encoded-secret-key
-  expiration-ms: 3600000   # 1시간
-chatgpt:
-  api-key: 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
